@@ -1,0 +1,11 @@
+Lead_ID,Lead_Date,Region,Team,Sales_Rep,Segment,Source,Stage,Deal_Value,Probability,Close_Date,Expected_Revenue
+1253,2025-04-13,East,Team A,Rep 5,Consumer,Referral,Closed Won,24515,1.0,2025-04-24,24515.0
+1077,2025-06-30,East,Team B,Rep 3,Consumer,LinkedIn,Closed Won,24507,1.0,2025-08-15,24507.0
+1325,2026-06-17,West,Team C,Rep 5,Corporate,Google,Closed Won,24294,1.0,2026-09-11,24294.0
+1357,2025-03-24,South,Team B,Rep 5,Consumer,Facebook,Closed Won,24143,1.0,2025-06-19,24143.0
+1381,2025-01-03,South,Team A,Rep 1,Home Office,Referral,Closed Won,23531,1.0,2025-04-29,23531.0
+1380,2025-05-24,North,Team C,Rep 8,Corporate,Email,Closed Won,23275,1.0,2025-06-21,23275.0
+1335,2025-09-09,South,Team C,Rep 4,Consumer,Email,Closed Won,22960,1.0,2025-10-09,22960.0
+1012,2026-06-17,North,Team B,Rep 7,Corporate,Google,Closed Won,22184,1.0,2026-10-14,22184.0
+1184,2026-01-16,West,Team C,Rep 7,Consumer,Google,Closed Won,21389,1.0,2026-04-02,21389.0
+1327,2025-05-10,North,Team B,Rep 3,Consumer,Facebook,Closed Won,21336,1.0,2025-08-04,21336.0

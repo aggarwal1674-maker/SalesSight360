@@ -1,0 +1,7 @@
+Stage,Total_Deals,Total_Deal_Value,Total_Expected_Revenue,Average_Probability,Average_Probability_%
+Closed Lost,32,356325,0.0,0.0,0.0
+Closed Won,74,926082,926082.0,1.0,100.0
+Lead,136,1750295,175029.5,0.1,10.0
+Negotiation,61,718402,538801.5,0.75,75.0
+Proposal,85,911193,455596.5,0.5,50.0
+Qualified,112,1435382,358845.5,0.25,25.0

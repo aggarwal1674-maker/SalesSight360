@@ -1,0 +1,11 @@
+Customer_ID,Total_Sales,Total_Profit,Total_Orders,Total_Quantity,Profit_Margin_%,Customer_Name,Email,Phone,City,State,Region,Segment
+C155,130470.2,41665.2,12,35,31.934648678395526,Anthony Nayar,quincypanchal@example.net,5658915262,Rajahmundry,Haryana,East,Consumer
+C050,111856.3,39436.3,12,42,35.25621712858373,Rajeshri Ravel,shivansh05@example.com,918951712622,Munger,Gujarat,North,Home Office
+C056,109014.2,35930.2,9,36,32.95919247217335,Abha Salvi,utkarshbhalla@example.net,912058849039,Nellore,West Bengal,West,Corporate
+C027,78598.7,31401.7,10,31,39.9519330472387,Bhavika Subramanian,dinnetra@example.org,4741696080,Morena,Nagaland,North,Home Office
+C157,94390.8,31025.8,10,33,32.86951694444797,Jagat Sani,farhanvora@example.com,542830866,Ozhukarai,Bihar,North,Corporate
+C054,84567.3,30466.3,7,25,36.02609992278339,Oni Bumb,lakshmikibe@example.org,7404594989,Siwan,Punjab,West,Corporate
+C096,88622.55,29979.55,8,28,33.82835407015483,David Chahal,kaurlopa@example.org,918532487046,Tinsukia,Chhattisgarh,East,Consumer
+C009,78378.1,28061.1,7,24,35.802220263058175,Yashasvi Iyer,amrutasachdev@example.net,3960963841,Mangalore,Karnataka,East,Home Office
+C064,66335.7,28050.7,6,23,42.285978741461996,Lipika Brar,tarya@example.net,4754848513,Raebareli,Himachal Pradesh,North,Corporate
+C153,77278.45,27932.45,6,25,36.14519959962965,Bhanumati Sampath,chaitanyabalay@example.com,8667608390,Panvel,Goa,South,Consumer

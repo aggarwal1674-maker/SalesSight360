@@ -1,0 +1,11 @@
+Lead_ID,Lead_Date,Region,Team,Sales_Rep,Segment,Source,Stage,Deal_Value,Probability,Close_Date,Expected_Revenue
+1422,2026-01-15,East,Team D,Rep 7,Home Office,LinkedIn,Proposal,24994,0.5,,12497.0
+1296,2025-10-12,North,Team D,Rep 8,Home Office,Facebook,Qualified,24859,0.25,,6214.75
+1216,2025-05-29,West,Team B,Rep 4,Consumer,Facebook,Negotiation,24823,0.75,,18617.25
+1266,2025-11-14,West,Team A,Rep 5,Corporate,Google,Lead,24774,0.1,,2477.4
+1102,2025-04-20,East,Team C,Rep 2,Consumer,LinkedIn,Lead,24697,0.1,,2469.7000000000003
+1135,2026-03-11,South,Team B,Rep 1,Home Office,Referral,Qualified,24681,0.25,,6170.25
+1123,2025-12-24,West,Team C,Rep 1,Corporate,Facebook,Qualified,24641,0.25,,6160.25
+1089,2026-02-24,West,Team B,Rep 8,Consumer,LinkedIn,Lead,24586,0.1,,2458.6000000000004
+1090,2026-03-31,North,Team A,Rep 3,Corporate,Referral,Closed Lost,24534,0.0,2026-06-26,0.0
+1253,2025-04-13,East,Team A,Rep 5,Consumer,Referral,Closed Won,24515,1.0,2025-04-24,24515.0

@@ -1,0 +1,11 @@
+Customer_ID,Total_Sales,Total_Profit,Total_Orders,Total_Quantity,Profit_Margin_%,Customer_Name,Email,Phone,City,State,Region,Segment
+C050,111856.3,39436.3,12,42,35.25621712858373,Rajeshri Ravel,shivansh05@example.com,918951712622,Munger,Gujarat,North,Home Office
+C155,130470.2,41665.2,12,35,31.934648678395526,Anthony Nayar,quincypanchal@example.net,5658915262,Rajahmundry,Haryana,East,Consumer
+C073,91753.5,27117.5,12,35,29.55473088220068,Jagrati Choudhry,darsh85@example.org,910706712852,Cuttack,Tripura,South,Consumer
+C016,89738.5,25439.5,11,35,28.348479192319907,Utkarsh Gole,alexanderbala@example.org,914572230050,Bilaspur,West Bengal,West,Corporate
+C131,61769.2,17397.2,10,27,28.164845910259483,Maya Bava,tandoninaya@example.net,910569770138,Sagar,Telangana,East,Consumer
+C027,78598.7,31401.7,10,31,39.9519330472387,Bhavika Subramanian,dinnetra@example.org,4741696080,Morena,Nagaland,North,Home Office
+C157,94390.8,31025.8,10,33,32.86951694444797,Jagat Sani,farhanvora@example.com,542830866,Ozhukarai,Bihar,North,Corporate
+C133,53014.85,13786.85,10,15,26.00563804292571,Tripti Kibe,wmani@example.org,7219697894,Kavali,Karnataka,East,Corporate
+C041,66893.5,22525.5,10,23,33.67367531972464,Ekansh Oommen,indira65@example.com,915987109110,Ahmedabad,Chhattisgarh,East,Corporate
+C161,94655.0,26924.0,9,30,28.444350536157625,Nitara Munshi,yug31@example.com,911525430823,Bettiah,West Bengal,West,Corporate

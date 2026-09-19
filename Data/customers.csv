@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Email,Phone,City,State,Region,Segment
+C001,Harsh Edwin,ehora@example.net,09813308715,Imphal,Odisha,North,Corporate
+C002,Xalak Sane,tailoraadi@example.net,2058627113,Phusro,Haryana,West,Corporate
+C003,Daniel Mall,naiksai@example.org,5419540435,Bokaro,Chhattisgarh,West,Consumer
+C004,Teerth Bhatia,zjaggi@example.org,6153707959,Panipat,Assam,North,Corporate
+C005,Ridhi Randhawa,vermamanya@example.com,0855621853,Sirsa,Sikkim,East,Consumer
+C006,Bimala Sama,vasayatin@example.net,02569477062,Mysore,Punjab,East,Home Office
+C007,Yatin Tank,dugaljanya@example.net,2181626957,Sirsa,Punjab,West,Corporate
+C008,Karan Bumb,vgour@example.net,05242620339,Varanasi,Karnataka,East,Home Office
+C009,Yashasvi Iyer,amrutasachdev@example.net,03960963841,Mangalore,Karnataka,East,Home Office
+C010,Widisha Banerjee,nandini04@example.org,02372773524,Karaikudi,Kerala,North,Corporate
+C011,Gagan Doshi,ogour@example.org,5646367914,Mirzapur,Chhattisgarh,North,Home Office
+C012,Divya Acharya,hayresanya@example.net,00067849775,Faridabad,Tripura,East,Corporate
+C013,Agastya Sahni,vrishtioommen@example.net,7817078429,Chapra,Andhra Pradesh,East,Consumer
+C014,Anthony Pillay,wmajumdar@example.org,+911287658782,Nanded,Odisha,East,Consumer
+C015,Gaurangi Natt,qsodhi@example.net,09130498942,Bhiwandi,Mizoram,West,Home Office
+C016,Utkarsh Gole,alexanderbala@example.org,+914572230050,Bilaspur,West Bengal,West,Corporate
+C017,Gautam Kala,rajuaarush@example.org,8435375297,Shahjahanpur,Bihar,North,Corporate
+C018,Jai Bakshi,ekanta50@example.com,05207297017,Jorhat,Odisha,East,Corporate
+C019,Gavin Sibal,upadhritirastogi@example.org,01213596536,Lucknow,Madhya Pradesh,South,Home Office
+C020,Pranav Banerjee,fnori@example.org,+910337827524,Nadiad,Meghalaya,West,Consumer
+C021,Pahal Mangal,lkaur@example.org,1900554344,Buxar,Karnataka,West,Consumer
+C022,Qasim Vora,harishraju@example.net,+916082416894,Alwar,Telangana,North,Consumer
+C023,Jalsa Nagi,harrisonsaran@example.com,03178033409,Agra,Odisha,East,Consumer
+C024,Zaid Manda,mandaridhi@example.com,5903375982,Chinsurah,Punjab,East,Home Office
+C025,Saumya Purohit,warjas42@example.net,5698651600,Patiala,Telangana,West,Home Office
+C026,Warda Koshy,bakhshi83@example.org,6636025414,Ongole,West Bengal,East,Consumer
+C027,Bhavika Subramanian,dinnetra@example.org,04741696080,Morena,Nagaland,North,Home Office
+C028,Upma Kaur,chaitanyaranganathan@example.net,04725513603,Mahbubnagar,Tamil Nadu,North,Corporate
+C029,Ishwar Bora,jmagar@example.net,4970043029,Aligarh,Maharashtra,West,Corporate
+C030,Abhiram Wali,upmarout@example.com,3662515842,Howrah,Haryana,East,Home Office
+C031,Odika Morar,nikitasharma@example.org,+911536626071,Mango,Tripura,West,Corporate
+C032,Krisha Palla,hayeranamika@example.net,04966371537,Tirupati,Tripura,East,Home Office
+C033,Yachana Parmer,hemalkrish@example.org,5586003405,Panihati,Madhya Pradesh,West,Consumer
+C034,Jyoti Bava,abha13@example.org,+914212007638,Guntakal,Andhra Pradesh,West,Consumer
+C035,Tanay Buch,dhari@example.com,05151689564,Sasaram,Haryana,South,Consumer
+C036,Meera Hayre,walibachittar@example.com,09879275931,Kalyan-Dombivli,Uttar Pradesh,North,Consumer
+C037,Lakshit Sekhon,routmaya@example.net,+918817916042,Hospet,Jharkhand,East,Corporate
+C038,Kashvi Pandey,ojasvi81@example.org,+911471787153,Kumbakonam,Goa,West,Consumer
+C039,Chasmum Sarna,yashsridhar@example.com,06223577820,Fatehpur,Nagaland,North,Corporate
+C040,Gaurav Natarajan,sibalayush@example.org,+911935906073,Ozhukarai,Arunachal Pradesh,South,Consumer
+C041,Ekansh Oommen,indira65@example.com,+915987109110,Ahmedabad,Chhattisgarh,East,Corporate
+C042,Ekaja Krishnamurthy,parmarjackson@example.net,02663385140,Raebareli,Gujarat,East,Home Office
+C043,Deepa Jhaveri,sidhusneha@example.com,09772997011,Panchkula,Meghalaya,East,Home Office
+C044,Ubika Suresh,kyogi@example.net,6647497021,Tinsukia,Sikkim,South,Consumer
+C045,Darsh Dara,devikacheema@example.com,+918866874867,Latur,Tripura,West,Home Office
+C046,Ekanta Barad,megha09@example.com,04309035331,Bhavnagar,Assam,South,Home Office
+C047,Sai Korpal,ygara@example.com,2983844025,Buxar,Manipur,South,Consumer
+C048,Chavvi Batra,qwable@example.org,06145597170,Madanapalle,Arunachal Pradesh,East,Corporate
+C049,Ekapad Ahluwalia,yamini05@example.org,02969945183,Bahraich,Assam,West,Consumer
+C050,Rajeshri Ravel,shivansh05@example.com,+918951712622,Munger,Gujarat,North,Home Office
+C051,Kala Raval,mjaggi@example.org,+917975129277,Patiala,Tripura,South,Home Office
+C052,Keya Madan,darika93@example.org,4879094133,Howrah,Goa,East,Home Office
+C053,Yasti Raj,esankaran@example.net,+919691724673,Dhanbad,Karnataka,North,Corporate
+C054,Oni Bumb,lakshmikibe@example.org,7404594989,Siwan,Punjab,West,Corporate
+C055,Ishaan Bhasin,mgade@example.org,8712937688,Gopalpur,Chhattisgarh,South,Home Office
+C056,Abha Salvi,utkarshbhalla@example.net,+912058849039,Nellore,West Bengal,West,Corporate
+C057,Nathan Sundaram,rajata51@example.net,+918077022697,Vijayawada,Jharkhand,East,Corporate
+C058,Upma Sinha,chamelimodi@example.net,09550770648,Ambattur,Goa,South,Home Office
+C059,Kavya Mannan,uahluwalia@example.net,05098077647,Hajipur,Tamil Nadu,West,Consumer
+C060,Siddharth Mann,jhaishwar@example.com,07867793843,Latur,Tamil Nadu,West,Consumer
+C061,Warjas Acharya,faris41@example.com,03120142664,Bilaspur,Gujarat,West,Corporate
+C062,Logan Vora,manan26@example.com,4605456256,Tiruppur,Tamil Nadu,East,Corporate
+C063,Viraj Chandran,uvarma@example.org,06346514054,Sambhal,Assam,West,Home Office
+C064,Lipika Brar,tarya@example.net,04754848513,Raebareli,Himachal Pradesh,North,Corporate
+C065,Watika Apte,shroffodika@example.org,+919297584050,Alappuzha,Odisha,South,Home Office
+C066,Vidhi Bath,lchadha@example.net,+916796048781,Davanagere,Bihar,West,Home Office
+C067,Ati Ram,poojanarasimhan@example.org,+912185870345,Durg,West Bengal,South,Consumer
+C068,Avi Talwar,kamala55@example.org,9198690870,Karnal,Sikkim,South,Corporate
+C069,Nachiket Dube,jananisundaram@example.org,5677057307,Medininagar,Uttarakhand,South,Home Office
+C070,Ati Panchal,harrisonrastogi@example.net,+915920558962,Bangalore,Arunachal Pradesh,North,Home Office
+C071,Yashawini Muni,nachiketsha@example.org,07067217250,Kochi,Maharashtra,East,Corporate
+C072,Ladli Iyer,nkar@example.net,+917117995516,Hospet,Rajasthan,North,Corporate
+C073,Jagrati Choudhry,darsh85@example.org,+910706712852,Cuttack,Tripura,South,Consumer
+C074,Ekapad Rajagopal,kadeqabil@example.org,+910932476729,Karimnagar,Karnataka,East,Home Office
+C075,Charles Sarma,deojack@example.com,+914715208764,Dharmavaram,Manipur,South,Home Office
+C076,Chatresh Devi,jtrivedi@example.org,9834140557,Ajmer,Maharashtra,East,Consumer
+C077,Anjali Khosla,kapoorchaman@example.com,+915393856521,Bhind,Haryana,South,Corporate
+C078,Wridesh Walia,farhan49@example.com,6958576115,Katni,Jharkhand,East,Corporate
+C079,Bhavika Kibe,hrastogi@example.com,+912141136285,Sasaram,Mizoram,South,Home Office
+C080,Jagrati Boase,msen@example.net,+919827102015,Thane,Jharkhand,East,Corporate
+C081,Faraj Choudhury,amahal@example.net,+913218616645,Malda,Chhattisgarh,South,Home Office
+C082,Zehaan Suresh,dakshsubramaniam@example.com,00640569040,Rajahmundry,Punjab,North,Corporate
+C083,Oeshi Bumb,aarushraja@example.net,+915969167739,Ahmedabad,Punjab,South,Corporate
+C084,Janya Kannan,rushil38@example.net,02330480228,Jalandhar,Kerala,South,Home Office
+C085,Barkha Ratti,zansiminhas@example.org,09652760393,Khandwa,Telangana,North,Corporate
+C086,Sathvik Upadhyay,vidhimore@example.net,+917583281586,Solapur,Manipur,East,Consumer
+C087,Raksha Zachariah,comarcharvi@example.org,+918544540229,Kanpur,Punjab,South,Corporate
+C088,Nirja Seshadri,bhavanimutti@example.net,0445055785,Bhagalpur,Jharkhand,West,Corporate
+C089,Teerth Chatterjee,mangalforum@example.net,+917998862673,Navi Mumbai,Bihar,East,Corporate
+C090,Omya Natt,cchowdhury@example.com,4184160695,Phagwara,Gujarat,South,Corporate
+C091,Bhavna Peri,chakrabartisathvik@example.com,6374922678,Proddatur,Assam,East,Corporate
+C092,Praneel Buch,swaminathanijaya@example.com,07722095188,Silchar,Tamil Nadu,North,Corporate
+C093,Gaurang Tak,sanyatoor@example.com,09147048641,Gorakhpur,Gujarat,East,Corporate
+C094,Samarth Mahajan,anshraman@example.org,00073204202,Proddatur,Tripura,West,Home Office
+C095,Jai Sandal,jhalak30@example.org,9140932350,Bhubaneswar,West Bengal,North,Consumer
+C096,David Chahal,kaurlopa@example.org,+918532487046,Tinsukia,Chhattisgarh,East,Consumer
+C097,Aadhya Kale,fzachariah@example.org,+917837391106,Solapur,Madhya Pradesh,South,Consumer
+C098,Fiyaz Thakkar,reva05@example.net,+911605496441,Jamnagar,Maharashtra,North,Home Office
+C099,Aadhya Sabharwal,lbarman@example.org,02781024590,Aurangabad,Sikkim,West,Corporate
+C100,Unnati Gandhi,tperi@example.com,3795445176,Dharmavaram,Madhya Pradesh,East,Home Office
+C101,Tanay Grewal,gulatianthony@example.org,+917705325679,Bathinda,Manipur,North,Home Office
+C102,Isaiah De,uroy@example.org,00760825131,Bellary,Himachal Pradesh,South,Corporate
+C103,Mohini Mannan,zmajumdar@example.net,2512700825,Panihati,Tripura,West,Home Office
+C104,Robert Chacko,sampathzaid@example.net,3170944679,Shivpuri,Karnataka,East,Home Office
+C105,Mugdha Srinivasan,utkarshparmar@example.net,02803948072,Mango,Assam,South,Corporate
+C106,Urvashi Subramaniam,bhavna56@example.org,+916719886210,Muzaffarpur,Uttarakhand,East,Consumer
+C107,Atharv Barman,watika10@example.com,6013694384,Sangli-Miraj & Kupwad,Odisha,West,Corporate
+C108,Yashica Pandey,nathanielthakkar@example.org,+914134925047,Karaikudi,Rajasthan,West,Corporate
+C109,Amrita Johal,zaitra00@example.net,5875030865,Jorhat,Odisha,North,Corporate
+C110,Arunima Viswanathan,reva80@example.org,8111489435,Alwar,Jharkhand,South,Corporate
+C111,Lakshmi Ratta,vyanjana89@example.com,04964258972,Ujjain,Telangana,South,Consumer
+C112,Maanav Saxena,praneelsama@example.com,4691267668,Udaipur,Mizoram,East,Corporate
+C113,Fitan Kumer,dchakrabarti@example.com,02846874639,Nandyal,Uttar Pradesh,North,Consumer
+C114,Chatura Kunda,dutttara@example.com,05266763268,Silchar,Telangana,North,Home Office
+C115,Wakeeta Swaminathan,rajukrisha@example.net,04940595193,Bangalore,Odisha,East,Home Office
+C116,Tristan Arya,anitaprasad@example.com,+915128339933,Guntakal,Tripura,South,Corporate
+C117,Atharv Anand,zachariahlakshit@example.org,04084285393,Durgapur,Madhya Pradesh,North,Corporate
+C118,Yashasvi Rao,gaurangbrar@example.net,+911181268417,Suryapet,Tripura,North,Corporate
+C119,Charvi Choudhury,sodhiayaan@example.com,+916927226993,Ulhasnagar,Jharkhand,South,Consumer
+C120,Jairaj Sachdeva,manya31@example.net,+915991301620,Coimbatore,Telangana,West,Corporate
+C121,Damyanti Chaudhary,watika64@example.com,05135596955,Visakhapatnam,Karnataka,West,Corporate
+C122,Harita Chand,ysubramaniam@example.org,2857384194,Jorhat,Kerala,South,Consumer
+C123,Warda Vig,meerabhattacharyya@example.com,01795776777,Darbhanga,West Bengal,West,Corporate
+C124,Naveen Balakrishnan,pauliam@example.com,+914757994110,Ranchi,Mizoram,East,Consumer
+C125,Manya Dugar,balendra34@example.org,+910746182066,Ghaziabad,Nagaland,East,Corporate
+C126,Krishna Arya,mitalwazir@example.net,+918809342240,Bhubaneswar,Arunachal Pradesh,West,Corporate
+C127,Isaiah Agarwal,wbera@example.org,01172074255,Kharagpur,Telangana,West,Corporate
+C128,William Choudhary,revabandi@example.com,01867433994,Udupi,Uttarakhand,East,Home Office
+C129,Sanaya Oak,sachi03@example.net,6812519222,Gwalior,Maharashtra,East,Corporate
+C130,Inaya Gulati,falan37@example.net,04359733803,Cuttack,Bihar,West,Consumer
+C131,Maya Bava,tandoninaya@example.net,+910569770138,Sagar,Telangana,East,Consumer
+C132,Tamanna Memon,garaqarin@example.net,09964808796,Rohtak,Arunachal Pradesh,North,Consumer
+C133,Tripti Kibe,wmani@example.org,07219697894,Kavali,Karnataka,East,Corporate
+C134,Rachita Roy,dhegde@example.org,06976935186,Thanjavur,Gujarat,West,Home Office
+C135,Ekaja Ramakrishnan,praneelrajagopal@example.net,01889685216,Kottayam,Jharkhand,South,Corporate
+C136,Krisha Vaidya,zapte@example.org,+911356654683,Fatehpur,Chhattisgarh,South,Corporate
+C137,Chandran Ben,virklaksh@example.net,+918578110631,Jaipur,Assam,South,Home Office
+C138,Damini Sule,wsha@example.net,5416526544,Chittoor,Odisha,North,Home Office
+C139,Arjun Vaidya,nehakarpe@example.org,7667748872,Khora ,Tripura,West,Consumer
+C140,Zarna Madan,lvirk@example.org,9097871536,Bathinda,Arunachal Pradesh,East,Corporate
+C141,Vritti Nadkarni,aadhyabhatti@example.org,08188866002,Alappuzha,Tripura,East,Home Office
+C142,Jasmit Amble,lekhaahuja@example.org,08039110309,New Delhi,Madhya Pradesh,West,Home Office
+C143,Warinder Bora,aarnav00@example.com,2391494087,Parbhani,Karnataka,North,Corporate
+C144,Indrajit Rau,oscar29@example.net,8975125788,Shimoga,Chhattisgarh,East,Corporate
+C145,Yashoda Suri,aadi87@example.net,05817278130,Satna,Jharkhand,North,Consumer
+C146,Anita Kalita,ekta90@example.com,1971019734,Katni,Kerala,West,Corporate
+C147,Janya Hora,upasna46@example.com,8867951666,Raichur,Meghalaya,East,Home Office
+C148,Chandresh Walla,adweta44@example.com,05767896180,Sagar,Tamil Nadu,West,Consumer
+C149,George Dave,libni96@example.net,01255116458,Vellore,Uttar Pradesh,South,Home Office
+C150,Faras Bansal,jmenon@example.org,09703906273,Madanapalle,Bihar,West,Corporate
+C151,Ekavir Sekhon,fbanerjee@example.com,03448868476,Aurangabad,Meghalaya,South,Consumer
+C152,Simon Krishnamurthy,hayerkiaan@example.org,08081107975,Solapur,Meghalaya,South,Corporate
+C153,Bhanumati Sampath,chaitanyabalay@example.com,8667608390,Panvel,Goa,South,Consumer
+C154,Hemang Nagy,haridevansh@example.org,8386844818,Kolkata,Uttar Pradesh,East,Home Office
+C155,Anthony Nayar,quincypanchal@example.net,05658915262,Rajahmundry,Haryana,East,Consumer
+C156,Lekha Sampath,kala48@example.com,9823035783,Haldia,Tamil Nadu,South,Consumer
+C157,Jagat Sani,farhanvora@example.com,00542830866,Ozhukarai,Bihar,North,Corporate
+C158,Sudiksha Issac,harrisonpatla@example.net,4431022039,Aurangabad,Assam,South,Home Office
+C159,Omaja Bajwa,siya47@example.org,0497172102,Hajipur,Mizoram,West,Corporate
+C160,Charvi Dhaliwal,netrasetty@example.org,+918538519345,Purnia,West Bengal,East,Consumer
+C161,Nitara Munshi,yug31@example.com,+911525430823,Bettiah,West Bengal,West,Corporate
+C162,Turvi Divan,okalla@example.org,+915583026899,Ambala,Goa,North,Home Office
+C163,Reva Choudhry,trivedijeet@example.com,+918922244386,Dhule,Meghalaya,South,Corporate
+C164,Kiaan Nagar,virkadweta@example.com,+918836958679,Satara,Manipur,West,Home Office
+C165,Jyoti Tailor,bhavyachokshi@example.org,+911668377821,Indore,West Bengal,East,Consumer
+C166,Eta Murthy,vritti01@example.com,+913231442080,Sagar,Nagaland,East,Consumer
+C167,Chakradhar Dugar,karanbhagat@example.org,+917476797748,Morbi,Manipur,North,Consumer
+C168,Chanakya Bhasin,dubehiral@example.net,07221734334,Pali,Tripura,South,Consumer
+C169,Rajata Bhatti,ssangha@example.com,00273658521,Nagercoil,Mizoram,South,Home Office
+C170,Nirja Wason,hemaminhas@example.net,4072968287,Bongaigaon,Madhya Pradesh,West,Consumer
+C171,Panini Aggarwal,geetika90@example.com,+911263458835,Anantapuram,Punjab,South,Home Office
+C172,Oliver Hans,sempooja@example.org,07490140579,Moradabad,Manipur,East,Home Office
+C173,Yoshita Sodhi,zachariahdamini@example.org,7688410637,Pallavaram,Maharashtra,West,Home Office
+C174,Eesha Kala,vganguly@example.com,+915127507826,Ballia,Manipur,West,Corporate
+C175,Brinda Borra,kondalakshmi@example.org,+918622399377,Bardhaman,Sikkim,East,Corporate
+C176,Rajata Gara,balgeetika@example.org,+918013504730,Allahabad,Mizoram,East,Home Office
+C177,Xiti Mutti,vparmer@example.net,7225738510,Panvel,Maharashtra,West,Corporate
+C178,Ekaraj Minhas,radhika21@example.com,5744057978,Tirunelveli,Rajasthan,South,Consumer
+C179,Yadavi Dube,ughosh@example.org,0662257698,Sasaram,Sikkim,South,Consumer
+C180,Vinaya Naidu,lwarrior@example.net,+917543769892,Madanapalle,Assam,South,Corporate
+C181,Vanya Shah,mbhatti@example.org,4445950033,Raiganj,Jharkhand,West,Corporate
+C182,Kala Hegde,masonchada@example.com,+915956682109,Pudukkottai,Andhra Pradesh,East,Consumer
+C183,Jeevika Soni,yash86@example.org,04335543640,Motihari,Bihar,West,Home Office
+C184,Vasudha Tiwari,rmallick@example.net,+918575385523,Unnao,Uttar Pradesh,South,Consumer
+C185,Aishani Venkataraman,dmalhotra@example.org,+911995504842,Sagar,Gujarat,East,Corporate
+C186,Chameli Mital,raghav39@example.org,+916728675153,Chandigarh,Karnataka,West,Home Office
+C187,Wriddhish Pal,pillaidhruv@example.org,5177613752,Bhopal,Meghalaya,West,Consumer
+C188,Veer Bandi,varghesevinaya@example.org,06947090549,Madhyamgram,Telangana,East,Consumer
+C189,Ekansh Borde,anthonysanghvi@example.com,0688322595,Kishanganj,Arunachal Pradesh,North,Consumer
+C190,Onkar Sastry,ati17@example.net,06408173830,Pimpri-Chinchwad,Assam,North,Consumer
+C191,Chandran Batra,daniaishani@example.org,06390575820,Bhiwandi,Andhra Pradesh,North,Consumer
+C192,Bina Ratti,ememon@example.net,04162511571,Sagar,Punjab,East,Corporate
+C193,Ranveer Ghosh,jhalakprabhakar@example.net,7738544965,Kochi,Maharashtra,West,Consumer
+C194,Ijaya Kar,aachalmani@example.net,+919302388131,Bellary,Nagaland,North,Corporate
+C195,Zarna Hora,subramaniamsudiksha@example.com,09567245046,Parbhani,Sikkim,North,Consumer
+C196,Rachit Mutti,divya66@example.com,+912082784716,Satara,Jharkhand,West,Corporate
+C197,Avni Guha,buchpratyush@example.com,5640809832,Secunderabad,Bihar,South,Consumer
+C198,Balhaar Apte,parsayug@example.org,9110742440,Serampore,Madhya Pradesh,North,Consumer
+C199,Tanmayi Aggarwal,bahadurjitkumer@example.org,+919269048809,Nangloi Jat,Himachal Pradesh,South,Home Office
+C200,Januja Mukhopadhyay,doshibimala@example.org,+918375741861,Singrauli,Assam,South,Home Office

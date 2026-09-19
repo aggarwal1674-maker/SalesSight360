@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,SubCategory,Price,Cost
+P001,Product 1,Furniture,Sub3,4350,2603
+P002,Product 2,Furniture,Sub5,4886,2676
+P003,Product 3,Office Supplies,Sub2,4423,3191
+P004,Product 4,Furniture,Sub4,4874,3723
+P005,Product 5,Office Supplies,Sub2,3731,2495
+P006,Product 6,Electronics,Sub5,634,433
+P007,Product 7,Office Supplies,Sub3,4793,2814
+P008,Product 8,Furniture,Sub5,4669,2877
+P009,Product 9,Electronics,Sub4,1713,1007
+P010,Product 10,Office Supplies,Sub5,3203,2180
+P011,Product 11,Furniture,Sub3,1472,1138
+P012,Product 12,Furniture,Sub3,4476,3175
+P013,Product 13,Furniture,Sub5,1216,725
+P014,Product 14,Furniture,Sub5,557,354
+P015,Product 15,Electronics,Sub3,2187,1156
+P016,Product 16,Electronics,Sub3,2844,2078
+P017,Product 17,Electronics,Sub1,1901,1293
+P018,Product 18,Furniture,Sub3,3670,1852
+P019,Product 19,Electronics,Sub4,1820,1355
+P020,Product 20,Electronics,Sub3,3666,2301
+P021,Product 21,Furniture,Sub1,2781,1633
+P022,Product 22,Office Supplies,Sub3,3829,2884
+P023,Product 23,Office Supplies,Sub2,3646,2830
+P024,Product 24,Furniture,Sub5,1248,663
+P025,Product 25,Electronics,Sub4,1066,611
+P026,Product 26,Electronics,Sub1,867,690
+P027,Product 27,Furniture,Sub4,1251,697
+P028,Product 28,Electronics,Sub2,4595,2812
+P029,Product 29,Office Supplies,Sub3,561,394
+P030,Product 30,Furniture,Sub1,1509,794
+P031,Product 31,Electronics,Sub3,4800,3791
+P032,Product 32,Electronics,Sub3,2234,1117
+P033,Product 33,Furniture,Sub3,3775,2391
+P034,Product 34,Office Supplies,Sub5,1505,840
+P035,Product 35,Electronics,Sub3,2936,1640
+P036,Product 36,Furniture,Sub2,3950,3069
+P037,Product 37,Electronics,Sub1,1198,627
+P038,Product 38,Furniture,Sub3,2985,1939
+P039,Product 39,Electronics,Sub3,2944,1609
+P040,Product 40,Office Supplies,Sub4,2124,1440
+P041,Product 41,Furniture,Sub5,4909,2897
+P042,Product 42,Office Supplies,Sub2,3163,1816
+P043,Product 43,Office Supplies,Sub2,2666,1855
+P044,Product 44,Office Supplies,Sub1,3350,2020
+P045,Product 45,Electronics,Sub4,4776,2405
+P046,Product 46,Electronics,Sub4,4306,2301
+P047,Product 47,Electronics,Sub2,1612,992
+P048,Product 48,Furniture,Sub4,3450,1970
+P049,Product 49,Electronics,Sub3,1485,975
+P050,Product 50,Furniture,Sub1,1322,808
