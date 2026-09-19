@@ -2,511 +2,315 @@
 
 ## 📌 Project Overview
 
-SalesSight 360 is a multi-channel revenue analytics platform designed to provide businesses with a unified view of sales, customer, product, payment, marketing, and CRM data.
+SalesSight 360 is a multi-channel revenue analytics platform developed to
+integrate and analyze data from multiple business sources such as CRM,
+orders, payments, marketing, customers, products, and sales targets.
 
-Businesses often store data across multiple systems such as CRM platforms, order management systems, payment systems, and marketing platforms. This makes it difficult for decision-makers to get a complete and timely view of business performance.
+The platform transforms raw business data into structured analytical
+datasets and provides meaningful insights into revenue performance,
+customer activity, sales pipeline, marketing performance, and target
+achievement.
 
-SalesSight 360 addresses this problem by integrating multiple datasets, cleaning and validating the data, creating an analytics data model, calculating key performance indicators (KPIs), and performing business-focused analytics.
-
-The project helps business stakeholders understand sales performance, profitability, customer behavior, product performance, marketing efficiency, CRM pipeline performance, and target achievement.
+The project demonstrates an end-to-end data analytics workflow including
+data ingestion, data cleaning, data transformation, data modeling,
+KPI calculation, analysis, and business intelligence dashboarding.
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Objectives
 
 The main objectives of SalesSight 360 are:
 
-* Integrate multiple business datasets into a unified analytics workflow.
-* Clean and prepare raw datasets for analysis.
-* Validate relationships between business entities.
-* Create dimension and fact tables for analytics.
-* Calculate important business KPIs.
-* Analyze sales and profit trends over time.
-* Identify high-performing and low-performing products.
-* Identify top and low-performing customers.
-* Analyze marketing campaign and channel performance.
-* Analyze CRM pipeline and expected revenue.
-* Compare actual sales with sales targets.
-* Generate structured analytical output files for business reporting.
+- Integrate data from multiple business sources.
+- Clean and preprocess raw datasets.
+- Create structured analytical datasets.
+- Analyze sales and revenue performance.
+- Monitor customer and product activity.
+- Analyze CRM leads and sales pipeline.
+- Measure marketing campaign performance.
+- Calculate important business KPIs.
+- Compare actual performance with sales targets.
+- Identify performance gaps and business trends.
+- Present insights through an interactive Power BI dashboard.
 
 ---
 
-## 🏗️ Project Architecture
+## 🏢 Business Problem
 
-The project follows a structured data analytics pipeline:
+Organizations often maintain sales, customer, payment, marketing, and CRM
+information in separate datasets.
+
+This makes it difficult to obtain a unified view of business performance.
+
+SalesSight 360 addresses this problem by bringing these data sources
+together into a structured analytical system that enables users to
+understand:
+
+- How much revenue is being generated
+- Which products and regions contribute to sales
+- How customers and orders are performing
+- How leads move through the sales pipeline
+- How marketing campaigns perform
+- How actual sales compare with targets
+- Where performance gaps exist
+
+---
+
+## 🔄 Project Workflow
+
+The overall workflow of the project is:
 
 Raw Data
-↓
-Data Cleaning & ETL
-↓
-Data Validation
-↓
-Analytics Data Model
-↓
+   ↓
+Data Ingestion
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Data Modeling
+   ↓
 KPI Calculation
-↓
-Business Analytics
-↓
-Analysis Output Files
-↓
-Business Insights & Reporting
+   ↓
+Data Analysis
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
 
 ---
 
-## 📂 Project Structure
+## 📊 Data Sources
 
-```text
-SalesSight360/
-│
-├── Cleaned data/
-│   ├── etl.py
-│   ├── data_modal.py
-│   ├── kpi_analysis.py
-│   ├── target_analysis.py
-│   ├── sales_trend_analysis.py
-│   ├── product_analysis.py
-│   ├── customer_analysis.py
-│   ├── marketing_analysis.py
-│   └── crm_analysis.py
-│
-├── Data/
-│   ├── Raw datasets
-│   ├── Cleaned datasets
-│   ├── Dimension tables
-│   ├── Fact tables
-│   └── Analysis output files
-│
-├── README.md
-└── requirements.txt
-```
+The project works with multiple business datasets:
+
+### 1. Customers
+
+Contains customer-related information used for customer and sales analysis.
+
+### 2. Orders
+
+Contains order-level information used to calculate sales, revenue,
+profit, and order-related KPIs.
+
+### 3. Products
+
+Contains product information used for product-level performance analysis.
+
+### 4. Payments
+
+Contains payment information used for payment and revenue analysis.
+
+### 5. CRM
+
+Contains sales-lead and pipeline information used to analyze lead
+conversion and expected revenue.
+
+### 6. Marketing
+
+Contains campaign-level marketing information used to evaluate marketing
+spending and conversion performance.
+
+### 7. Sales Targets
+
+Contains target information used to compare actual performance against
+planned targets.
+
+---
+
+## 🧹 Data Cleaning
+
+The raw datasets were processed before analysis.
+
+Major data preparation activities included:
+
+- Handling missing values
+- Checking duplicate records
+- Validating identifiers
+- Standardizing data types
+- Cleaning categorical fields
+- Checking invalid IDs
+- Preparing date fields
+- Creating consistent analytical datasets
+- Removing or handling invalid records where required
+
+---
+
+## 🏗️ Data Model
+
+The project uses a structured analytical data model.
+
+### Dimension Tables
+
+- DIM_CUSTOMERS
+- DIM_PRODUCTS
+
+### Fact Tables
+
+- FACT_ORDERS
+- FACT_PAYMENTS
+- FACT_CRM
+- FACT_MARKETING
+
+The dimensional structure helps organize business data and supports
+efficient analysis and reporting.
+
+---
+
+## 📐 Key Performance Indicators
+
+The project calculates several important business KPIs.
+
+### Sales KPIs
+
+- Total Sales
+- Total Profit
+- Number of Orders
+- Average Order Value
+- Profit Margin
+- Net Sales
+
+### Marketing KPIs
+
+- Marketing Spend
+- Leads
+- Conversions
+- Conversion Rate
+- Cost per Lead
+- Cost per Conversion
+
+### CRM KPIs
+
+- CRM Deal Value
+- Expected Revenue
+- Sales Pipeline Performance
+
+### Target KPIs
+
+- Sales Target
+- Actual Sales
+- Target Achievement
+- Target Performance Gap
+
+---
+
+## 📈 Project Results
+
+Based on the processed project datasets, important calculated metrics
+include:
+
+| KPI | Value |
+|---|---:|
+| Total Sales | 7,991,578.75 |
+| Total Profit | 2,615,311.75 |
+| Total Orders | 1,000 |
+| Average Order Value | 7,991.58 |
+| Profit Margin | 32.73% |
+| Net Sales | 7,452,024.71 |
+| Leads | 32,223 |
+| Conversions | 7,901 |
+| Marketing Spend | 1,511,485 |
+| Conversion Rate | 24.52% |
+| Cost per Lead | 46.91 |
+| Cost per Conversion | 191.30 |
+| CRM Deal Value | 6,097,679 |
+| Expected Revenue | 2,454,355 |
+| Sales Target | 35,610,644 |
+| Target Achievement | 22.44% |
+
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of business
+performance.
+
+The dashboard can be used to analyze:
+
+### Revenue Analysis
+
+- Total revenue
+- Net sales
+- Profit
+- Profit margin
+- Average order value
+
+### Sales Analysis
+
+- Order performance
+- Product performance
+- Regional performance
+- Sales representative performance
+- Channel-level performance
+
+### CRM Analysis
+
+- Lead volume
+- Sales pipeline
+- Deal value
+- Expected revenue
+- Conversion performance
+
+### Marketing Analysis
+
+- Campaign spending
+- Leads generated
+- Conversions
+- Conversion rate
+- Cost per lead
+- Cost per conversion
+
+### Target Analysis
+
+- Actual sales versus target
+- Target achievement
+- Performance gaps
+- Target-miss areas
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Pandas
-* CSV Data Processing
-* Data Cleaning
-* ETL (Extract, Transform, Load)
-* Data Validation
-* Data Modeling
-* KPI Analysis
-* Business Analytics
+- Python
+- Pandas
+- Power BI
+- Microsoft Excel
+- CSV
+- Data Cleaning
+- Data Transformation
+- ETL
+- Data Modeling
+- Business Intelligence
+- Data Analytics
 
 ---
 
-# 🔄 ETL Process
-
-The ETL pipeline is implemented using Python and Pandas.
-
-### 1. Extract
-
-Raw business datasets are loaded into the Python environment.
-
-The project uses data related to:
-
-* Customers
-* Orders
-* Products
-* Payments
-* Marketing
-* CRM
-* Sales Targets
-
-### 2. Transform
-
-The datasets are cleaned and prepared for analysis.
-
-The transformation process includes:
-
-* Handling missing values
-* Standardizing data
-* Validating identifiers
-* Preparing datasets for analytics
-* Creating calculated KPI columns
-
-### 3. Load
-
-The cleaned datasets are saved as CSV files and used to create the analytics data model.
-
----
-
-# 🧩 Data Model
-
-The analytics data model consists of dimension and fact tables.
-
-## Dimension Tables
-
-### DIM_CUSTOMERS
-
-Contains customer-related information used for customer-level analysis.
-
-### DIM_PRODUCTS
-
-Contains product-related information used for product performance analysis.
-
-## Fact Tables
-
-### FACT_ORDERS
-
-Contains order-level sales and profitability information.
-
-### FACT_PAYMENTS
-
-Contains payment transaction information.
-
-### FACT_CRM
-
-Contains CRM leads, sales stages, deal values, probabilities, and expected revenue.
-
-### FACT_MARKETING
-
-Contains marketing campaign performance information.
-
-### FACT_TARGET
-
-Contains sales targets by month, region, and team.
-
----
-
-# 📊 KPI Analysis
-
-The project calculates important business KPIs including:
-
-### Sales KPIs
-
-* Total Sales
-* Total Profit
-* Total Orders
-* Average Order Value
-
-### Profitability KPIs
-
-* Overall Profit Margin
-* Total Net Sales
-
-### Discount KPIs
-
-* Total Discount Amount
-* Net Sales After Discount
-
-### Payment KPIs
-
-* Total Payment Amount
-
-### Marketing KPIs
-
-* Total Leads
-* Total Conversions
-* Total Marketing Spend
-* Conversion Rate
-* Cost Per Lead
-* Cost Per Conversion
-
-### CRM KPIs
-
-* Total Deal Value
-* Total Expected Revenue
-* Average Deal Value
-* Average Deal Probability
-
----
-
-# 📈 Sales Trend Analysis
-
-Sales trend analysis is performed using order date information.
-
-The analysis includes:
-
-* Monthly Sales Analysis
-* Monthly Profit Analysis
-* Monthly Order Analysis
-* Monthly Sales Growth
-* Best Sales Month
-* Best Profit Month
-
-### Key Finding
-
-The highest sales and profit were recorded in **June 2026**.
-
-* Highest Sales: 593,330.60
-* Highest Profit: 183,251.60
-
-The analysis also identifies month-to-month changes in sales performance to help understand business growth and fluctuations.
-
----
-
-# 📦 Product Performance Analysis
-
-Product-level analysis is performed to identify:
-
-* Top 10 Products by Sales
-* Top 10 Products by Profit
-* Top 10 Products by Quantity
-* Lowest Performing Products
-* Product Profitability
-* Best Product by Sales
-* Best Product by Profit
-
-### Key Finding
-
-**Product P002** was identified as the best-performing product based on both sales and profit.
-
-* Total Sales: 370,603.10
-* Total Profit: 148,495.10
-
-This indicates that P002 is a strong contributor to overall business performance.
-
----
-
-# 👥 Customer Performance Analysis
-
-Customer analytics is performed to identify:
-
-* Top 10 Customers by Sales
-* Top 10 Customers by Profit
-* Top 10 Customers by Order Count
-* Lowest Performing Customers
-* Best Customer by Sales
-* Best Customer by Profit
-* Most Frequent Customer
-
-### Key Findings
-
-**Customer C155** was identified as the best customer based on sales and profit.
-
-* Total Sales: 130,470.20
-* Total Profit: 41,665.20
-* Total Orders: 12
-
-**Customer C050** was identified as one of the most frequent customers with 12 orders.
-
-Customer-level analysis helps businesses identify valuable customers and understand customer contribution to revenue and profitability.
-
----
-
-# 📢 Marketing Performance Analysis
-
-Marketing analytics evaluates campaign and channel performance.
-
-The analysis includes:
-
-* Overall Marketing KPIs
-* Campaign Performance
-* Conversion Rate
-* Cost Per Lead
-* Cost Per Conversion
-* Top Campaigns by Conversions
-* Best Campaigns by Conversion Rate
-* Most Efficient Campaigns
-* Highest Spending Campaigns
-* Channel Performance
-
-### Key Findings
-
-**Campaign 3** generated the highest number of conversions.
-
-* Total Conversions: 496
-* Conversion Rate: 29.75%
-
-**Campaign 2** achieved the highest conversion rate.
-
-* Conversion Rate: 95.37%
-* Total Leads: 389
-* Total Conversions: 371
-
-**Campaign 21** was identified as the most cost-efficient campaign.
-
-* Cost Per Conversion: 37.93
-* Total Spend: 17,108
-
-At the channel level, **LinkedIn** generated the highest number of conversions.
-
-* Total Conversions: 3,469
-* Conversion Rate: 32.37%
-
-The analysis also highlights that high marketing spending does not always guarantee strong conversion performance.
-
----
-
-# 💼 CRM Performance Analysis
-
-CRM analytics evaluates the sales pipeline and potential revenue.
-
-The analysis includes:
-
-* Total Deal Value
-* Expected Revenue
-* Average Deal Value
-* Average Deal Probability
-* Stage-wise Deal Analysis
-* Stage-wise Expected Revenue
-* Top Deals by Deal Value
-* Top Deals by Expected Revenue
-* CRM Pipeline Performance
-
-### Key Findings
-
-* Total Deals: 500
-* Total Deal Value: 6,097,679
-* Total Expected Revenue: 2,454,355
-* Average Deal Value: 12,195.36
-* Average Deal Probability: 40.77%
-
-The **Lead** stage had the highest total deal value.
-
-* Total Deal Value: 1,750,295
-
-The **Closed Won** stage generated the highest expected revenue.
-
-* Expected Revenue: 926,082
-
-The highest-value individual deal was:
-
-* Lead ID: 1422
-* Deal Value: 24,994
-* Expected Revenue: 12,497
-
----
-
-# 🎯 Target vs Actual Analysis
-
-The project compares actual sales performance against predefined sales targets.
-
-The analysis calculates:
-
-* Total Actual Sales
-* Total Sales Target
-* Sales Variance
-* Target Achievement Percentage
-
-### Key Finding
-
-* Actual Sales: 7,991,578.75
-* Sales Target: 35,610,644
-* Sales Variance: -27,619,065.25
-* Target Achievement: 22.44%
-
-The analysis indicates that actual sales were below the overall target during the analyzed period.
-
-This provides an important business insight for management to investigate performance gaps and improve future sales planning.
-
----
-
-# 📁 Analysis Outputs
-
-The project generates multiple analytical output files including:
-
-* Sales Trend Analysis
-* Product Performance Analysis
-* Customer Performance Analysis
-* Campaign Performance Analysis
-* Channel Performance Analysis
-* CRM Stage Analysis
-* Top CRM Deals
-* Top Customers
-* Top Products
-* Marketing Campaign Rankings
-
-These output files can be used for further reporting and dashboard development.
-
----
-
-# 💡 Key Business Insights
-
-The major insights generated from the analysis are:
-
-1. Sales performance varies significantly across different months.
-2. June 2026 recorded the highest sales and profit during the analyzed period.
-3. Product P002 was the strongest product based on sales and profit.
-4. Customer C155 was the highest-value customer based on sales and profit.
-5. LinkedIn generated the highest number of marketing conversions.
-6. Campaign 21 showed the strongest cost efficiency.
-7. Campaign 2 achieved the highest conversion rate but operated with a comparatively smaller lead volume.
-8. The Lead CRM stage contains the highest total deal value.
-9. Closed Won deals contribute the highest expected revenue.
-10. Actual sales were significantly below the overall sales target, indicating a performance gap that requires business attention.
-
----
-
-# ▶️ How to Run the Project
-
-## Step 1: Install Python
-
-Install Python 3.x on your system.
-
-## Step 2: Install Dependencies
-
-Open a terminal in the project directory and run:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Step 3: Run the ETL Pipeline
-
-Run the ETL script to clean and prepare the datasets.
-
-```bash
-python etl.py
-```
-
-## Step 4: Validate the Data Model
-
-Run:
-
-```bash
-python data_modal.py
-```
-
-This validates important relationships between customers, orders, products, and payments.
-
-## Step 5: Run KPI Analysis
-
-```bash
-python kpi_analysis.py
-```
-
-## Step 6: Run Business Analytics
-
-Run the following scripts:
-
-```bash
-python target_analysis.py
-python sales_trend_analysis.py
-python product_analysis.py
-python customer_analysis.py
-python marketing_analysis.py
-python crm_analysis.py
-```
-
-The scripts generate analytical results and save output CSV files.
-
----
-
-# 🚀 Future Scope
-
-The project can be further enhanced by:
-
-* Developing an interactive Power BI dashboard.
-* Adding automated data refresh pipelines.
-* Implementing sales forecasting.
-* Adding customer churn prediction.
-* Building marketing ROI analysis.
-* Adding advanced CRM funnel conversion analysis.
-* Implementing real-time analytics.
-* Integrating databases and cloud data sources.
-* Adding machine learning-based revenue prediction.
-
----
-
-# 👩‍💻 Project Summary
-
-SalesSight 360 demonstrates how Python and Pandas can be used to build an end-to-end business analytics solution.
-
-The project covers the complete analytics workflow from data cleaning and ETL to data validation, data modeling, KPI calculation, and business performance analysis.
-
-The solution provides actionable insights into sales, profitability, customers, products, marketing campaigns, CRM pipeline performance, and sales target achievement.
-
-The project establishes a strong foundation for future business intelligence and dashboard development.
+## 📁 Project Structure
+
+```text
+SalesSight360/
+│
+├── Cleaned data/
+│   ├── customers
+│   ├── orders
+│   ├── products
+│   ├── payments
+│   ├── marketing
+│   ├── CRM
+│   └── target
+│
+├── Data/
+│
+├── SalesSight360.pbix
+│
+├── README.md
+│
+└── Other project files
+
+#Project Outcome
+
+The project successfully demonstrates an end-to-end data analytics workflow, from data cleaning and transformation to KPI analysis and business intelligence dashboarding.
+
+SalesSight 360 provides a unified view of sales, CRM, marketing, customer, product, payment, and target data. The analysis helps identify revenue performance, sales pipeline trends, marketing performance, and gaps between actual sales and targets.
+
+The project demonstrates how multiple business datasets can be transformed into meaningful insights using Python, Pandas, data modeling, and Power BI.
